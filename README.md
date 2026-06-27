@@ -3,6 +3,7 @@ This repository contains my DSA and LeetCode solutions in Python.
 
 ## Topics Covered
 - Arrays
+- Basic maths
 - Strings
 - Hashing
 - Binary Search
