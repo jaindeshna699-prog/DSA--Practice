@@ -13,6 +13,5 @@ class Solution:
             else:
                 hashmap[sum] = 1
         return count
-
-# time complexity = O(N)
-# Space complexity = O(N)
+# Time complexity O(N)
+#Space complexity O(N)
