@@ -4,7 +4,7 @@ class Solution:
             return False
         hashmap = {}
         for ch in s:
-            hashmap[ch] = hashmap.get(ch, 0) + 1   # this is how we set elements in dict
+            hashmap[ch] = hashmap.get(ch, 0) + 1   # this is how we set elements in dict or we store the frequency of every unique element
         for ch in t:
             if ch not in hashmap:
                 return False
